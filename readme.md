@@ -1,8 +1,7 @@
-# H1 Read Me
+#Read Me
 
-Repo starter: Matt Matero
-[My Website](http://matero.me "My Website")
+Repo starter:  [Matt Matero](http://matero.me "Matt Matero")
 
 
 This repo solves the 5th problem on Porject Euler
-[Link](https://projecteuler.net/problem=5 "problem")
+[Link](https://projecteuler.net/problem=5)
