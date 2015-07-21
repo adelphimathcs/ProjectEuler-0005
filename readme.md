@@ -1,6 +1,6 @@
 #Read Me
 
-Repo starter:  [Matt Matero](http://matero.me "Matt Matero")
+Repo starter:  [Matt Matero](https://github.com/MattMatero "Matt Matero")
 
 
 This repo solves the 5th problem on Porject Euler
