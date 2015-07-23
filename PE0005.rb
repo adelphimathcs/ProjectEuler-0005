@@ -8,14 +8,8 @@ def gcd(x,y)
   x
 end
 
-def smallestMult
-  num = 1
-  (2..20).each do |x|
-    num *= x / gcd(num,x)
-  end
-  num
+def smallest_mult
+  (2..20).inject{|result,num| result*(num/gcd(result,num))}
 end
 
-
-
-puts smallestMult
+puts smallest_mult
